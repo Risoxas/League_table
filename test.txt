@@ -1,0 +1,8 @@
+Wolves 3, Monkeys 1
+Monkeys 3, Parrots 1
+Parrots 3, Monkeys 0
+Monkeys 0, Wolves 3
+Wild Dogs 4, Parrots 0
+Wolves 4, Wild Dogs 3
+Parrots 4, Wolves 1
+Wolves 0, Wild Dogs 1
